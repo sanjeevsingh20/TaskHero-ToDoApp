@@ -1,0 +1,6 @@
+@media screen and (max-width:800px) {
+    .pxy{
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+}

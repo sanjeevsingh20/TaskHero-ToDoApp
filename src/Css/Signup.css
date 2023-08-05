@@ -1,0 +1,25 @@
+@media screen and (max-width:600px) {
+    .fl-r{
+        flex-direction: column !important;
+    }
+    .mxt-2{
+        margin-top: 2rem !important;
+
+    }
+    .mxt-1{
+        margin-top: 1rem !important;
+
+    }
+    .pdxy{
+        padding: 2rem !important;
+    }
+    .jcc{
+        justify-content: center;
+    }
+    
+}
+@media screen and (max-width:950px) {
+    .w-50{
+        width: 100% !important;
+    }
+}
