@@ -10,6 +10,11 @@ TaskHero is a powerful and user-friendly TODO app built using React.js, Express.
 - Task Management: Add, delete, and update tasks effortlessly to stay organized and productive.
 - Error Handling: Proper and user-friendly error messages are displayed in case of incorrect actions.
 
+## Other Features
+- This web app primarily focuses on backend development, utilizing Express.js to fetch data from APIs.
+- The frontend, based on Tailwind.css and Bootstrap, may not boast intricate design but is simple, responsive, and efficient.
+-  API testing is performed using the Thunderclient extension to ensure seamless communication between the backend and React App.
+  
 ## Installation
 To get started with TaskHero, follow these steps:
 
