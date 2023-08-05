@@ -1,0 +1,16 @@
+@media screen and (max-width:750px) {
+    .flex-row{
+        flex-direction: column !important;
+    }
+    .w-50{
+        width: 100% !important;
+    }
+    .pdx-2{
+        padding-left: 1.5rem !important;
+        padding-right: 1.5rem !important;
+    }
+    .pd-y{
+        margin-top: 1rem !important;
+        margin-bottom: 1rem !important;
+    }
+}

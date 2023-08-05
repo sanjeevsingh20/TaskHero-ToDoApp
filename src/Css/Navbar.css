@@ -1,0 +1,5 @@
+@media screen and (max-width:750px) {
+    .jcc{
+        justify-content: center !important;
+    }
+}
